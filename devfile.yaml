@@ -7,6 +7,6 @@ attributes:
 components:
   - name: devtools
     container:
-      image: crvt4722/ubi8-jetbrains:latest
+      image: crvt4722/base-ubi8:latest
       memoryLimit: 2Gi
       memoryRequest: 256Mi
