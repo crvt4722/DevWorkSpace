@@ -7,6 +7,6 @@ attributes:
 components:
   - name: devtools1
     container:
-      image:ubi8-jetbrains
+      image: ubi8-jetbrains
       memoryLimit: 2Gi
       memoryRequest: 256Mi
