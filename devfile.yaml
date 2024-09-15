@@ -7,6 +7,6 @@ attributes:
 components:
   - name: devtools1
     container:
-      image: quay.io/devfile/universal-developer-image:ubi8-latest
+      image: ubi8-jetbrains:latest
       memoryLimit: 2Gi
       memoryRequest: 256Mi
