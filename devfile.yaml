@@ -7,6 +7,6 @@ attributes:
 components:
   - name: devtools1
     container:
-      image: linhnt35/ubi8-with-user
+      image: linhnt35/ubi8-with-user:v1.2
       memoryLimit: 2Gi
       memoryRequest: 256Mi
