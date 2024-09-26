@@ -7,6 +7,6 @@ attributes:
 components:
   - name: devtools1
     container:
-      image: cr1.viettelcloud.vn/viettel-kubernetes-engine-ryx2v3vsc6/base-devspace@sha256:903cbc70718590ddb4fcad3344956f7a7d80c9cbced1db95cbc564afdb02cdc0
+      image: cr1.viettelcloud.vn/viettel-kubernetes-engine-ryx2v3vsc6/base-devspace:ubi8-vscode
       memoryLimit: 2Gi
       memoryRequest: 256Mi
